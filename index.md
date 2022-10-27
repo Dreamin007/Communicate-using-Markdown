@@ -1,14 +1,34 @@
-# H1 Header
+###### H6 Header
+### H3 Header
+
+# Image of Yaktocat
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ```javascript
 var first = 1;
 var second = 2;
 var sum  = first + second;
 ```
-- [x] List syntax is required
-- [ ] index.html page completed
-- [x] JavaScript completed
-- [ ] Space Game completed
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portofilio
-- [ ] Introduce myself to the world!
+
+```git init
+git init
+```
+
+``` git merge
+git merge main
+```
+
+```git status
+git status
+```
+
+
+
+- [x] Merge
+- [ ] Resolve merge conflict
+- [x] Clone git repo
+- [ ] Start a new feature branch
+- [ ] Start a release branch
+- [ ] Fix bugs in old feature branch
+- [ ] Introduce myself to the world
